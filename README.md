@@ -1,9 +1,5 @@
 # comp163-assignment-5
-git add main.py
-git commit -m "Challenge 1: Collatz sequence - while loop for unknown iterations"
 
-git commit -m "Challenge 2: Prime checker - for loop for known range"
-git Commit: "Challenge 3: Multiplication grid - nested loops for 2D data"
 # Assignment 5: Loop Challenges Documentation
 
 ## Loop Choices & Rationale
@@ -44,16 +40,17 @@ git Commit: "Challenge 3: Multiplication grid - nested loops for 2D data"
 
 ## AI Assistance
 
-- Parts of the code and documentation were written and reviewed with the help of GitHub Copilot and ChatGPT, which suggested loop structures, formatting, and explanations.
+- Parts documentation were written and reviewed with the help of GitHub Copilot and ChatGPT, which suggested loop structures, formatting, and explanations. I orgibnally was able to figure out the code with the help of my upswing tutor and he also helped me figure out the github formatting. So i was able to use ai to help make everythinh work on github.
 
----
+git add main.py
+git commit -m "Challenge 1: Collatz sequence - while loop for unknown iterations"
 
-## Final Git Commands
-
-To save this documentation, run:
-```bash
-git add README.md
+git commit -m "Challenge 2: Prime checker - for loop for known range"
+git Commit: -m "Challenge 3: Multiplication grid - nested loops for 2D data"
+ git add README.md:
 git commit -m "Add loop design documentation"
-```
+
+
+
 
 
